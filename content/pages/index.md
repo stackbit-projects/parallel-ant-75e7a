@@ -79,9 +79,8 @@ sections:
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, A Company'
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          Working here is efficient, the books are very good, I like them very
+          much.
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
