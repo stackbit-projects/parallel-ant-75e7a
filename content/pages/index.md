@@ -90,7 +90,7 @@ sections:
           much.
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together!
+    title: Let's visit the bookstore together!
     actions:
       - label: Let's start
         url: /contact
