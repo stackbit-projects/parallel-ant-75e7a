@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >
+    content: >+
       Let’s build something great together.
 
       Complete our contact form or send us an email at
@@ -17,28 +17,13 @@ sections:
       ## Our Offices
 
 
-      ### San Francisco
+      ### TPHCM
 
 
-      1234 Some St.<br>
 
-      San Francisco, CA 12345<br>
+      [Get direactions
+      →](https://www.google.com/maps/place/ph%C6%B0%E1%BB%9Dng+8,+Qu%E1%BA%ADn+11,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7614477,106.6463336,17z/data=!3m1!4b1!4m5!3m4!1s0x31752e924918cf05:0xfd30fe3536927c80!8m2!3d10.7606898!4d106.6482886?hl=vi-VN)
 
-      1-234-556-7890<br>
-
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-
-      ### New York
-
-
-      1234 Some St.<br>
-
-      New York, NY 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
