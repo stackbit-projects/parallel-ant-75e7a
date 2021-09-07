@@ -1,4 +1,3 @@
-import advanced from './advanced';
 import blog from './blog';
 import page from './page';
 import portfolio from './portfolio';
