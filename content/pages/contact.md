@@ -7,8 +7,8 @@ sections:
     content: >
       Let’s build something great together.
 
-      Complete our contact form or send us an email at [Khuong
-      Tran](https://www.facebook.com/khuonggggggggg/)
+      Complete our contact form or send us an email at
+      [Khuongtran227@gmail.com](https://www.facebook.com/khuonggggggggg/)
 
 
       ***
